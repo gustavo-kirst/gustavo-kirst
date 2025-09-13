@@ -40,34 +40,34 @@
       <td width="33%">
         <div align="center">
           <strong>Ambiente e Ferramentas</strong><br><br>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="35" alt="Linux logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="30" alt="Linux logo"/>
           &nbsp;&nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" height="35" alt="Figma logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" height="30" alt="Figma logo"/>
         </div>
       </td>
       <td width="33%">
         <div align="center">
           <strong>Frontend</strong><br><br>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="35" alt="Vue logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" alt="Vue logo"/>
           &nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" alt="React logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="React logo"/>
           &nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="35" alt="TypeScript logo"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"/>
           &nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="HTML5 logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"/>
           &nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35" alt="CSS3 logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"/>
         </div>
       </td>
       <td width="33%">
         <div align="center">
           <strong>Backend & Databases</strong><br><br>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="Python logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python logo"/>
           &nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg" height="35" alt="Prisma logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg" height="30" alt="Prisma logo"/>
           &nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" height="35" alt="Postgres logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" height="30" alt="Postgres logo"/>
         </div>
       </td>
     </tr>
