@@ -7,7 +7,7 @@
 <p align="center">
   Sou um desenvolvedor de Pelotas-RS, cursando o 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b>. 
   <br><br>
-  Atualmente, trabalho como <b>Estagiário Frontend</b> na <b>Freedom Veículos Elétricos</b>, onde aplico e aprimoro minhas habilidades diariamente. Sou apaixonado por transformar ideias em interfaces interativas e funcionais.
+  Atualmente, trabalho como <b>Estagiário Frontend</b> na <b>Freedom Veículos Elétricos</b>, onde aplico e aprimoro minhas habilidades diariamente. Sou motivado por transformar ideias em interfaces interativas e funcionais.
 </p>
 
 - 🎨 **Do Design ao Código:** Utilizo o Figma com excelência para desenhar e prototipar todos os meus projetos, criando uma base sólida de UI/UX antes de escrever a primeira linha de código.
@@ -35,35 +35,40 @@
 <h3 align="center"><strong>💻 Tecnologias e Ferramentas</strong></h3>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" valign="top">
-        <strong>Ambiente e Ferramentas:</strong><br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="40" alt="Linux logo"/>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr valign="top">
+      <td width="33%">
+        <div align="center">
+          <strong>Ambiente e Ferramentas</strong><br><br>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="35" alt="Linux logo"/>
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" height="35" alt="Figma logo"/>
+        </div>
       </td>
-      <td align="center" valign="top">
-        <strong>Frontend:</strong><br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue logo"/>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React logo"/>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"/>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
+      <td width="33%">
+        <div align="center">
+          <strong>Frontend</strong><br><br>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="35" alt="Vue logo"/>
+          &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" alt="React logo"/>
+          &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="35" alt="TypeScript logo"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo"/>
+          &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="HTML5 logo"/>
+          &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35" alt="CSS3 logo"/>
+        </div>
       </td>
-      <td align="center" valign="top">
-        <strong>Backend & Databases:</strong><br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python logo"/>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg" height="40" alt="Prisma logo"/>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" height="40" alt="Postgres logo"/>
+      <td width="33%">
+        <div align="center">
+          <strong>Backend & Databases</strong><br><br>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="Python logo"/>
+          &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg" height="35" alt="Prisma logo"/>
+          &nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" height="35" alt="Postgres logo"/>
+        </div>
       </td>
     </tr>
   </table>
