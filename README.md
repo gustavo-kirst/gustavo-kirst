@@ -1,5 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=570&lines=Oi%2C+eu+sou+o+Gustavo!;Sou+Desenvolvedor+Frontend." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=570&lines=Oi%2C+eu+sou+o+Gustavo!;Sou+Desenvolvedor+Frontend.#gh-dark-mode-only" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=40&pause=1000&color=010101&center=true&vCenter=true&width=570&lines=Oi%2C+eu+sou+o+Gustavo!;Sou+Desenvolvedor+Frontend.#gh-light-mode-only" alt="Typing SVG" />
+  </a>
 </div>
 
 <h3 align="center"><strong>🚀 Sobre mim</strong></h3>
