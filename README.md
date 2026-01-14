@@ -5,9 +5,9 @@
 <h3 align="center"><strong>🚀 Sobre mim</strong></h3>
 
 <p align="center">
-  Sou um desenvolvedor de Pelotas-RS, cursando o 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b>. 
+  Sou um desenvolvedor de Pelotas-RS, cursando o 5º semestre de <b>Análise e Desenvolvimento de Sistemas</b>. 
   <br><br>
-  Atualmente, trabalho como <b>Estagiário Frontend</b> na <b>Freedom Veículos Elétricos</b>, onde aplico e aprimoro minhas habilidades diariamente. Sou motivado por transformar ideias em interfaces interativas e funcionais.
+  Atualmente, trabalho como <b>Desenvolvedor Frontend</b> na <b>Freedom Veículos Elétricos</b>, onde aplico e aprimoro minhas habilidades diariamente. Sou motivado por transformar ideias em interfaces interativas e funcionais.
 </p>
 
 - 🎨 **Do Design ao Código:** Utilizo o Figma com excelência para desenhar e prototipar todos os meus projetos, criando uma base sólida de UI/UX antes de escrever a primeira linha de código.
