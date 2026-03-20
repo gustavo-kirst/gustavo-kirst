@@ -7,14 +7,15 @@
 <p align="center">
   Sou um desenvolvedor de Pelotas-RS, cursando o 5º semestre de <b>Análise e Desenvolvimento de Sistemas</b>. 
   <br><br>
-  Atualmente, trabalho como <b>Desenvolvedor Frontend</b> na <b>Freedom Veículos Elétricos</b>, onde aplico e aprimoro minhas habilidades diariamente. Sou motivado por transformar ideias em interfaces interativas e funcionais.
+  Atuei como <b>Desenvolvedor Frontend</b> na <b>Freedom Veículos Elétricos</b>, onde apliquei e desenvolvi minhas habilidades em projetos reais. 
+  Sou motivado por transformar ideias em interfaces interativas, funcionais e bem estruturadas.
 </p>
 
-- 🎨 **Do Design ao Código:** Utilizo o Figma com excelência para desenhar e prototipar todos os meus projetos, criando uma base sólida de UI/UX antes de escrever a primeira linha de código.
-- 💻 **Foco em Frontend:** Minha principal ferramenta é o **Vue.js**, mas também possuo experiência com **React**, **JavaScript** e **TypeScript** para criar aplicações web modernas e robustas.
-- 🧠 **Explorando o Backend:** Estou expandindo meus conhecimentos para o lado do servidor, utilizando **Prisma ORM** para interagir com bancos de dados como o **PostgreSQL**. Já desenvolvi projetos utilizando **Python** com o microframework **Flask**.
-- 🐧 **Ambiente de Desenvolvimento:** Tenho familiaridade e conforto trabalhando em ambientes Linux, **utilizando o Linux Mint como meu sistema operacional principal no dia a dia profissional**.
-- 🚀 **Próximos Passos:** Sempre em busca de conhecimento, com foco em me tornar um desenvolvedor mais completo e dominar as boas práticas do desenvolvimento de software.
+- 🎨 **Do Design ao Código:** Utilizo o Figma para desenhar e prototipar interfaces, garantindo uma base sólida de UI/UX antes da implementação.
+- 💻 **Foco em Frontend:** Experiência com **Vue.js**, **React**, **JavaScript** e **TypeScript**, criando aplicações web modernas, responsivas e performáticas.
+- 🧠 **Explorando o Backend:** Conhecimento em **Prisma ORM** e **PostgreSQL**, além de projetos utilizando **Python** com **Flask**.
+- 🐧 **Ambiente de Desenvolvimento:** Experiência com Linux, utilizando **Linux Mint** como sistema principal no dia a dia.
+- 🚀 **Evolução Contínua:** Buscando me tornar um desenvolvedor cada vez mais completo, com foco em boas práticas, arquitetura e qualidade de código.
 
 <h3 align="center"><strong>📫 Como me encontrar</strong></h3>
 
