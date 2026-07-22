@@ -5,7 +5,7 @@
 <h3 align="center"><strong>🚀 Sobre mim</strong></h3>
 
 <p align="center">
-  Sou um desenvolvedor de Pelotas-RS, cursando o 5º semestre de <b>Análise e Desenvolvimento de Sistemas</b>. 
+  Sou um desenvolvedor de Pelotas-RS, cursando o 6º semestre de <b>Análise e Desenvolvimento de Sistemas</b>. 
   <br><br>
   Atuei como <b>Desenvolvedor Frontend</b> na <b>Freedom Veículos Elétricos</b>, onde apliquei e desenvolvi minhas habilidades em projetos reais. 
   Sou motivado por transformar ideias em interfaces interativas, funcionais e bem estruturadas.
